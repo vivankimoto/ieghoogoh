@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://theuvaine.weslee3.com/sitemap.xml
